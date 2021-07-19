@@ -1,0 +1,16 @@
+#total execution time, total storage cost(unit:128MB), number of indexes
+
+# 236.58 15.82 num:7  
+#indexes = ['idx25', 'idx39', 'idx18', 'idx68', 'idx78', 'idx80', 'idx126']
+
+# 215.61 24.82 num:26
+#indexes = ['idx0', 'idx113', 'idx39', 'idx18', 'idx23', 'idx76', 'idx71', 'idx41', 'idx83', 'idx140', 'idx12', 'idx14', 'idx112', 'idx133', 'idx78', 'idx10', 'idx103', 'idx125', 'idx84', 'idx74', 'idx67', 'idx137', 'idx101', 'idx150', 'idx9', 'idx118']
+
+# 179.93 45.37 num: 18  
+#indexes = ['idx0', 'idx1', 'idx21', 'idx23', 'idx16', 'idx86', 'idx49', 'idx100', 'idx70', 'idx112', 'idx5', 'idx79', 'idx115', 'idx120', 'idx103', 'idx84', 'idx74', 'idx7']
+
+# 154.01 63.94  num 25
+#indexes = ['idx74', 'idx92', 'idx143', 'idx88', 'idx63', 'idx68', 'idx57', 'idx122', 'idx101', 'idx24', 'idx82', 'idx21', 'idx141', 'idx17', 'idx23', 'idx25', 'idx112', 'idx37', 'idx39', 'idx71', 'idx115', 'idx75', 'idx77', 'idx103', 'idx18']
+
+# 162.31 79.86  num 31
+#indexes = ['idx25', 'idx61', 'idx18', 'idx23', 'idx115', 'idx110', 'idx17', 'idx74', 'idx30', 'idx68', 'idx143', 'idx121', 'idx24', 'idx39', 'idx77', 'idx81', 'idx75', 'idx37', 'idx21', 'idx14', 'idx88', 'idx92', 'idx116', 'idx138', 'idx141', 'idx56', 'idx122', 'idx71', 'idx19', 'idx82', 'idx101']
