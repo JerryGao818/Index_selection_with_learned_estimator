@@ -6,7 +6,7 @@ The indexes selected by existing index selection model may be sub-optimal due to
 ## Get Started
 The project works on PostgreSQL 11. You also need to install [HypoPG](https://hypopg.readthedocs.io/en/latest/) due to the usage of what-if interface. 
 
-If you want to collect your own data, run GenerateTrainingData.py in PostgreGenerator. Or you can use the data collected by us in IMDBData to test the performance of the model.
+If you want to collect your own data, run GenerateTrainingData.py in PostgreGenerator. Or you can use the data collected by us in [IMDBData](https://drive.google.com/file/d/1uRBtv-pnMflxpeeMrD_nAa8E_IR_fsTv/view?usp=sharing) to test the performance of the model.
 
 To train the cost estimation model, unzip IMDBData and rename it as data in CostEstimator and run CostEstimator.py.
 
