@@ -19,6 +19,6 @@ The index selecion part is based on "Lan H, Bao Z, Peng Y. An Index Advisor Usin
 
 
 ***
-This project is only available to the reviewer currently. We promise to make it available as soon as the paper is accepted.
+This project is only available to the reviewer now. We promise to make it available as soon as the paper is accepted.
 
 
