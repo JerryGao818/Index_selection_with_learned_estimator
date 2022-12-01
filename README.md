@@ -1,7 +1,7 @@
 # Automatic Index Selection with Learned Cost Estimator
 The indexes selected by existing index selection model may be sub-optimal due to the usuage of the cost estimation model in optimizer. To address this problem, we present an automatic index selector with GCN based cost estimator to improve index selection quality. In order to get accurate estimations of an index's benefit, we design a deep learning based cost estimator to predict a query's execution time on certain indexes. In particular, we regard query plans as graphs and develop a graph convolutional network (GCN) based model to learn features from queries and indexes. After that, we design a reinforcement learning based index selector considering the relationships among indexes to make index recommendation, and combine our cost estimator to evaluate the benefit of each index in the index selection model. We offer the source code and the data collected by us in JOB workload.
 
-### The full version is available to the reviewer now, and we only show the process of collecting data here. We promise to make our project available as soon as the paper is accepted.
+
 ****
 
 ## Get Started
